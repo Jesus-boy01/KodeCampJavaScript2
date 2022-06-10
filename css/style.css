@@ -5,14 +5,14 @@
     padding: 0;
 }
 
-body {
-    background-color: lib;
+body {  
     padding: 50px 0;
     background: linear-gradient(to right, rgb(237, 237, 237), rgb(239, 235, 235));
 }
 
 .card {
-    background-color: #e6ce96 !important;
+    background-color: #c2ac7a !important;
+    color: rgb(255, 255, 255);
 }
 
 .card:hover {
@@ -21,8 +21,4 @@ body {
     border-color: #e6ce96;
     cursor: pointer;
     transition: all ease-in-out 0.5s;
-}
-
-.card-body {
-    color: #555;
 }

@@ -106,7 +106,7 @@ for (let i = 0; i < teamZeusMembers.length; i++) {
                                     <p>Complexion: ${teamZeusMembers[i].complexion}</p>
                                     <p>Learnt: ${teamZeusMembers[i].learnt}</p>
                                 </div>
-                                <button type="button" onclick="moreInfo(${i})" class="alert btn btn-success py-2 px-3 mx-3 mb-2 fs-5">Click Me</button>
+                                <button type="button" onclick="moreInfo(${i})" class="alert btn btn-success py-2 px-3 mb-0 fs-5">Click Me</button>
                             </div>
                         </div>`
 
