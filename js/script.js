@@ -2,7 +2,7 @@ const teamZeusMembers = [
     {
         fullName: "Simple Soul",
         image: "img/Abdur-roheem-Sherif-deen.jpg",
-        bestFood: "Agege Bread with Togo Beans",
+        bestFood: "Bread with Togo Beans",
         track: "Front-End",
         bestMovie: "Hercules",
         complexion: "Chocolate",
